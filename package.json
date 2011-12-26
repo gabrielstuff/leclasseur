@@ -4,7 +4,7 @@
   "description": "A smart draft for testing node.js + cloud9 IDE",
   "author": "Soixante circuits contact@soixantecircuits.fr",
   "dependencies": {
-    "express": "2.2.0"
+    "express": "2.2.0",
     "jade" : "0.19.0"
   },
   "engine": "node 0.4.1"
